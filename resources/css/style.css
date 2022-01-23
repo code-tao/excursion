@@ -1,5 +1,5 @@
 * {
-  font-family: Verdana, Geneva, sans-serif; 
+  font-family: Verdana, Geneva, sans-serif;
 }
 
 body {
@@ -32,4 +32,6 @@ figcaption {
 
 footer p {
   text-align: right;
+  color: gray;
+  font-size: 21px;
 }
